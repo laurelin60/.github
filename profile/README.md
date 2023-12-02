@@ -6,4 +6,4 @@
 
 
   
-<h3 align="center">We're a team of people who build awesome projects together — we also happen to live right next to each other. Check out our work below!</h3>
+<h3 align="center">We're a team of students who build awesome projects together — we also happen to live right next to each other. Check out our work below!</h3>
