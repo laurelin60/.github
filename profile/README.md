@@ -1,7 +1,7 @@
 # Laurelin60
 
 <p align="center">
-  <img width=300 src="https://github.com/laurelin60/.github/assets/100006999/11cdbfe0-368e-4dc2-b74e-9730c620ee89" alt="Benson, our mascot"
+  <img width=300 src="https://github.com/laurelin60/.github/assets/100006999/cdbfadc9-bfd0-4202-b8fc-00f61cd726f1" alt="Benson, our mascot"
 </p>
 
 
