@@ -12,4 +12,4 @@
 
 - 🏅[GE-Z](https://ge-z.vercel.app/) - Tool built for University Students that finds online GE courses at California CCs ([Frontend](https://github.com/laurelin60/GE-Z-Frontend)) ([Backend](https://github.com/laurelin60/GE-Z-Backend))  
 - 🏅[Agentic](https://devpost.com/software/agentic) - AI accessibility tool that transforms natural language into real action ([Github](https://github.com/laurelin60/Agentic))
-- 🏅[Politica](politica-three.vercel.app) - Website that makes CA Legislation accessible to anyone ([Github](https://github.com/laurelin60/politica))  
+- 🏅[Politica](https://politica-three.vercel.app) - Website that makes CA Legislation accessible to anyone ([Github](https://github.com/laurelin60/politica))  
