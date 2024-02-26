@@ -11,3 +11,4 @@
 - 🥇 [GE-Z](https://ge-z.vercel.app/) - The only articulation tool that finds online GE courses at California CCs ([Frontend](https://github.com/laurelin60/GE-Z-Frontend)) ([Backend](https://github.com/laurelin60/GE-Z-Backend))  
 - 🥇 [Agentic](https://devpost.com/software/agentic) - Accessibility-focused AI large action model that transforms natural language into real action ([Github](https://github.com/laurelin60/Agentic))
 - 🏅 [Politica](https://politica-three.vercel.app) - Making CA Legislation accessible to anyone ([Github](https://github.com/laurelin60/politica))  
+- 🦆 [Radioactive Duck Game](https://github.com/laurelin60/radioactive-duck-game) - A fun duck hunt game that teaches you the ASL alphabet ([Unity Game](https://github.com/laurelin60/radioactive-duck-game)) ([Web Client](https://github.com/laurelin60/radioactive-duck-game-client))
