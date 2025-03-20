@@ -11,3 +11,4 @@
 - 🏅 [Politica](https://politica-three.vercel.app) - Making CA Legislation accessible to anyone ([Github](https://github.com/laurelin60/politica))  
 - 🏅 [Radioactive Duck Game](https://github.com/laurelin60/radioactive-duck-game) - Learn ASL with radioactive ducks ([Unity Game](https://github.com/laurelin60/radioactive-duck-game)) ([Web Client](https://github.com/laurelin60/radioactive-duck-game-client))
 - 🥇 [Travel Safe](https://devpost.com/software/travel-safe) - Detect hazardous luggage with realtime, mixed-reality object detection ([Github](https://github.com/laurelin60/travel-safe))
+- 🥇 [Hey Chef](https://devpost.com/software/hey-chef) - Conversational AI built for aspiring chefs ([Github](https://github.com/laurelin60/hey-chef))
